@@ -1,0 +1,5 @@
+# Ignore everything except save files
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
